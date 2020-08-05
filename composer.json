@@ -7,7 +7,7 @@
             "Supermetrics\\PHPStan\\Command\\ErrorFormatter\\": "src/"
         }
     },
-    "require-dev": {
+    "require": {
         "phpstan/phpstan": "^0.12.35"
     },
     "license": "MIT",
@@ -16,6 +16,5 @@
             "name": "Niklas Lampén",
             "email": "niklas.lampen@supermetrics.com"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
