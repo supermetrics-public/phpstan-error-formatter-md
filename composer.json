@@ -1,0 +1,19 @@
+{
+    "name": "supermetrics/phpstan-error-formatter-md",
+    "description": "PHPStan error formatter to output errors in Markdown format",
+    "type": "library",
+    "autoload": {
+        "Supermetrics\\PHPStan\\Command\\ErrorFormatter\\": "src/"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12.35"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niklas Lampén",
+            "email": "niklas.lampen@supermetrics.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
